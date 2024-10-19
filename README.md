@@ -1,5 +1,7 @@
 # AWS Projects
-Collection of hands-on cloud engineering projects that demonstrate the practical implementation of various AWS services. This project explores real-world scenarios including deploying and managing applications using different AWS services.
+- Collection of hands-on cloud engineering projects that demonstrate the practical implementation of various AWS services.
+- This project explores real-world scenarios including deploying and managing applications using different AWS services.
+- Each project aims to enhance understanding of cloud infrastructure, security, and automation while adhering to best practices in scalability and cost-efficiency.
 
 > Note: Uploaded task in the repository are my accomplished project in AWS and can be used as a reference.
 
